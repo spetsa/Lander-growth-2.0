@@ -17,14 +17,10 @@ The “Logos” folder where you can store your logos
 The “banner_images” file where you can see banner images that have been converted to WebP. All of which are free to use from Unsplash. 
 The “webp conversions” folder which contains a number of handpicked Unsplash images that have all been converted to Webp.
 
-**Growth Lander Video Tutorials**
-https://www.youtube.com/playlist?list=PLH61JS6acSMALOBGQl04GZImJl1p0Bobg
 
-**Google Tag Manager Tutorial**
-https://www.youtube.com/watch?v=u_x5lVJMKZ0
+**Chat-GPT Copy Generation Prompt**
+Fill in the template below, then copy and paste it into Chat-GPT to create the copy for you landing page.
 
-**Google Analytics Tutorial**
-https://www.youtube.com/watch?v=cN1Jcfxi4qs&t=566s
 
 
 **Photos**
